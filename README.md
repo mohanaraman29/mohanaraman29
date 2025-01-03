@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-   💫  I'm Mohana Raman<br>   🎯  Passionate Data Analyst<br>   🎓  B com graduate <br>   💻  Turning data into insights <br>     🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohana29)<br>   🌱  Eager to Learn New Skills<br>    📊  Power BI, SQL, Excel, Python<br>  
+   💫  I'm Mohana Raman<br>   🎯  Passionate Data Analyst<br>   📧 Reach me on : mohanaraman29@gmail.com <br>   💻  Turning data into insights <br>     🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohana29)<br>   🌱  Eager to Learn New Skills<br>    📊  Power BI, SQL, Excel, Python<br>  
  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
 
