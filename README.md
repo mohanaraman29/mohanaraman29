@@ -28,6 +28,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![snake gif](https://github.com/mohanaraman29/mohanaraman29/blob/output/github-snake-dark.svg)
+
 
 
 
