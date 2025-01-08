@@ -7,8 +7,7 @@
 
 
 # 💫 About Me:
-   💫  I'm Mohana Raman<br>   🎯  Passionate Data Analyst<br>   📧 Reach me on : mohanaraman29@gmail.com <br>     📝 [Portfolio](https://sites.google.com/view/mohanaraman/home)<br>  
-🗒️ [View My Resume](https://drive.google.com/file/d/1bih_fXGRNW6Q04CLx3Ikn_hQRjzfi6Sm/view?usp=sharing)
+   💫  I'm Mohana Raman<br>   🎯  Passionate Data Analyst<br>   📧 Reach me on : mohanaraman29@gmail.com <br>     📝 [Portfolio](https://sites.google.com/view/mohanaraman/home)<br>  🗒️ [View My Resume](https://drive.google.com/file/d/1bih_fXGRNW6Q04CLx3Ikn_hQRjzfi6Sm/view?usp=sharing)
         🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohana29)<br> 
   🌱  Eager to Learn New Skills<br>    📊  Power BI, SQL, Excel, Python<br>  
  
